@@ -16,7 +16,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/gowtham-code-space/gowtham-code-space/main/headings/heading-about-me.svg" alt="About Me"/>
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=99999&color=FFB85C&center=false&vCenter=true&width=200&height=36&lines=About+Me" alt="About Me"/>
 
 Fullstack and AI enthusiast who loves problem solving and is always eager to learn new things. Outside of tech, I enjoy playing chess and doing art and craft. I stay enthusiastic about exploring new technologies and building meaningful products.
 
@@ -24,7 +24,7 @@ Fullstack and AI enthusiast who loves problem solving and is always eager to lea
 
 ---
 
-<img src="https://raw.githubusercontent.com/gowtham-code-space/gowtham-code-space/main/headings/heading-stack.svg" alt="Stack"/>
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=99999&color=FFB85C&center=false&vCenter=true&width=130&height=36&lines=Stack" alt="Stack"/>
 
 <div align="center">
 
@@ -97,7 +97,7 @@ Fullstack and AI enthusiast who loves problem solving and is always eager to lea
 
 ---
 
-<img src="https://raw.githubusercontent.com/gowtham-code-space/gowtham-code-space/main/headings/heading-projects-cicd.svg" alt="Projects"/>
+<img src="https://raw.githubusercontent.com/gowtham-code-space/gowtham-code-space/main/projects-heading.svg" alt="Projects"/>
 
 <table>
 <tr>
@@ -194,7 +194,7 @@ Automated video subtitle generation. Processes video input and outputs timed sub
 
 ---
 
-<img src="https://raw.githubusercontent.com/gowtham-code-space/gowtham-code-space/main/headings/heading-github-stats.svg" alt="GitHub Stats"/>
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=99999&color=FFB85C&center=false&vCenter=true&width=230&height=36&lines=GitHub+Stats" alt="GitHub Stats"/>
 
 <div align="center">
 
@@ -216,7 +216,7 @@ Automated video subtitle generation. Processes video input and outputs timed sub
 
 ---
 
-<img src="https://raw.githubusercontent.com/gowtham-code-space/gowtham-code-space/main/headings/heading-activity.svg" alt="Activity"/>
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=99999&color=FFB85C&center=false&vCenter=true&width=180&height=36&lines=Activity" alt="Activity"/>
 
 <div align="center">
 
@@ -236,7 +236,7 @@ Automated video subtitle generation. Processes video input and outputs timed sub
 
 ---
 
-<img src="https://raw.githubusercontent.com/gowtham-code-space/gowtham-code-space/main/headings/heading-contact.svg" alt="Contact"/>
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=99999&color=FFB85C&center=false&vCenter=true&width=180&height=36&lines=Contact" alt="Contact"/>
 
 <div align="center">
 
