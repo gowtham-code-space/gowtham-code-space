@@ -30,62 +30,74 @@ Fullstack and AI enthusiast who loves problem solving and is always eager to lea
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-**Programming Languages**
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark&perline=3" alt="Languages"/>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-**Web Development**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,nextjs&theme=dark&perline=3" alt="Web"/>
-
-</td>
-<td align="center" width="25%">
-
-**Databases & Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,git,github&theme=dark&perline=3" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark&perline=4" alt="Frontend"/>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-**AI / ML & Media**
+**Backend**
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark&perline=2" alt="AI"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark&perline=3" alt="Backend"/>
 
 </td>
 </tr>
 <tr>
 <td align="center">
 
-**DevOps & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=docker,linux&theme=dark&perline=2" alt="DevOps"/>
-
-</td>
-<td align="center">
-
-**Design & Dev Tools**
-
-<img src="https://skillicons.dev/icons?i=vscode,figma&theme=dark&perline=2" alt="Design"/>
-
-</td>
-<td align="center">
-
-**Operating Systems**
-
-<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark&perline=2" alt="OS"/>
-
-</td>
-<td align="center">
-
 **Mobile**
 
 <img src="https://skillicons.dev/icons?i=react,expo&theme=dark&perline=2" alt="Mobile"/>
+
+</td>
+<td align="center">
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,supabase&theme=dark&perline=4" alt="Databases"/>
+
+</td>
+<td align="center">
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,firebase&theme=dark&perline=2" alt="DevOps"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,postman,figma&theme=dark&perline=3" alt="Tools"/>
+
+</td>
+<td align="center">
+
+**AI / Vector Search**
+
+<img src="https://cdn.brandfetch.io/idCLuo1dQ8/w/178/h/178/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1718349235873"
+     width="48"
+     height="48"
+     alt="AI"/>
+
+</td>
+<td align="center">
+
+**Editor**
+
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark&perline=1" alt="Editor"/>
 
 </td>
 </tr>
@@ -108,8 +120,11 @@ Fullstack and AI enthusiast who loves problem solving and is always eager to lea
 
 City-scale waste management platform. Citizens report issues, admins route workflows, system tracks resolution and auto-generates compliance certificates. Real-time socket updates and geo-mapped tracking.
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mysql,git&theme=dark" alt="Stack" height="32"/>
-
+<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,fastapi,redis,mysql&theme=dark" alt="Stack" height="32"/>
+<img src="https://cdn.brandfetch.io/idCLuo1dQ8/w/178/h/178/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1718349235873"
+     width="32"
+     height="32"
+     alt="AI"/>
 </td>
 <td width="50%" valign="top">
 
@@ -162,7 +177,7 @@ Travel booking and planning application. Mobile-first, cross-platform architectu
 
 Mentorship coordination platform connecting students and mentors. Full Node.js backend with React frontend.
 
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express&theme=dark" alt="Stack" height="32"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql&theme=dark" alt="Stack" height="32"/>
 
 </td>
 </tr>
@@ -207,8 +222,6 @@ Automated video subtitle generation. Processes video input and outputs timed sub
 <img src="https://streak-stats.demolab.com/?user=gowtham-code-space&hide_border=true&background=0d1117&stroke=3a5a3e&ring=6a9e72&fire=6a9e72&currStreakLabel=6a9e72&sideLabels=c8e6c9&dates=6a9e72&sideNums=c8e6c9&currStreakNum=c8e6c9" width="55%"/>
 
 <br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=gowtham-code-space&theme=matrix&no-frame=true&no-bg=true&column=7" width="100%"/>
 
 </div>
 
