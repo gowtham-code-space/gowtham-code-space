@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1a12,50:1a2e1e,100:0f1a12&height=180&section=header&text=Gowtham&fontSize=62&fontColor=c8e6c9&animation=fadeIn&fontAlignY=55&desc=Full+Stack+%E2%80%94+Mobile+%E2%80%94+AI+%E2%80%94+Real-time&descFontColor=6a9e72&descSize=15&descAlignY=75" width="100%"/>
+<img src="https://raw.githubusercontent.com/gowtham-code-space/gowtham-code-space/main/github-header-banner.png" width="100%" alt="Hey! I am Gowtham — Fullstack Developer"/>
 
 <br/>
 
@@ -72,10 +72,7 @@ Fullstack and AI enthusiast who loves problem solving and is always eager to lea
 **DevOps & Cloud**
 
 <img src="https://skillicons.dev/icons?i=docker,firebase&theme=dark&perline=2" alt="DevOps"/>
-<img src="https://avatars.githubusercontent.com/u/69240164?s=200&v=4"
-     width="48"
-     height="48"
-     alt="TIDB"/>
+
 </td>
 </tr>
 <tr>
@@ -90,10 +87,7 @@ Fullstack and AI enthusiast who loves problem solving and is always eager to lea
 
 **AI / Vector Search**
 
-<img src="https://cdn.brandfetch.io/idCLuo1dQ8/w/178/h/178/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1718349235873"
-     width="48"
-     height="48"
-     alt="AI"/>
+<img src="https://skillicons.dev/icons?i=pinecone&theme=dark&perline=1" alt="AI"/>
 
 </td>
 <td align="center">
@@ -123,11 +117,8 @@ Fullstack and AI enthusiast who loves problem solving and is always eager to lea
 
 City-scale waste management platform. Citizens report issues, admins route workflows, system tracks resolution and auto-generates compliance certificates. Real-time socket updates and geo-mapped tracking.
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,fastapi,redis,mysql&theme=dark" alt="Stack" height="32"/>
-<img src="https://cdn.brandfetch.io/idCLuo1dQ8/w/178/h/178/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1718349235873"
-     width="32"
-     height="32"
-     alt="AI"/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mysql,git&theme=dark" alt="Stack" height="32"/>
+
 </td>
 <td width="50%" valign="top">
 
@@ -180,7 +171,7 @@ Travel booking and planning application. Mobile-first, cross-platform architectu
 
 Mentorship coordination platform connecting students and mentors. Full Node.js backend with React frontend.
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql&theme=dark" alt="Stack" height="32"/>
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express&theme=dark" alt="Stack" height="32"/>
 
 </td>
 </tr>
