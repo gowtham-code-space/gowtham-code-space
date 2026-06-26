@@ -14,46 +14,96 @@
 
 <br/>
 
-I build production-grade software across web and mobile — platforms that handle real users, real workflows, and real-time events. My work includes a city-scale waste management system, AI speech processing apps, multi-role mobile platforms, and e-commerce. I care about architecture, clean schema design, and software that ships.
+---
+
+<img src="https://raw.githubusercontent.com/gowtham-code-space/gowtham-code-space/main/headings/heading-about-me.svg" alt="About Me"/>
+
+Fullstack and AI enthusiast who loves problem solving and is always eager to learn new things. Outside of tech, I enjoy playing chess and doing art and craft. I stay enthusiastic about exploring new technologies and building meaningful products.
 
 <br/>
 
 ---
 
-## Stack
+<img src="https://raw.githubusercontent.com/gowtham-code-space/gowtham-code-space/main/headings/heading-stack.svg" alt="Stack"/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark&perline=6" alt="Languages" title="C · C++ · Java · Python · JavaScript · TypeScript"/>
+<table>
+<tr>
+<td align="center" width="25%">
 
-<br/><br/>
+**Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mysql,firebase,supabase,git,github&theme=dark&perline=10" alt="Core stack" title="React · Vite · Tailwind CSS · Node.js · Express · MySQL · Firebase · Supabase · Git · GitHub"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark&perline=3" alt="Languages"/>
+
+</td>
+<td align="center" width="25%">
+
+**Web Development**
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,nextjs&theme=dark&perline=3" alt="Web"/>
+
+</td>
+<td align="center" width="25%">
+
+**Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,git,github&theme=dark&perline=3" alt="Databases"/>
+
+</td>
+<td align="center" width="25%">
+
+**AI / ML & Media**
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark&perline=2" alt="AI"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**DevOps & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=docker,linux&theme=dark&perline=2" alt="DevOps"/>
+
+</td>
+<td align="center">
+
+**Design & Dev Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,figma&theme=dark&perline=2" alt="Design"/>
+
+</td>
+<td align="center">
+
+**Operating Systems**
+
+<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark&perline=2" alt="OS"/>
+
+</td>
+<td align="center">
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,expo&theme=dark&perline=2" alt="Mobile"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-```
-Frontend    React · Vite · Tailwind CSS · Recharts · Leaflet
-Mobile      React Native · Expo · Expo Router · Nativewind · Zustand
-Backend     Node.js · Express · Socket.io · JWT · Multer · Nodemailer · PDFKit · Canvas
-Databases   MySQL · TiDB · Firebase · Supabase · Cloudinary
-AI / Media  Groq AI · FFmpeg · Speech Processing
-Docs        Docusaurus
-```
-
-<br/>
-
 ---
 
-## Projects
+<img src="https://raw.githubusercontent.com/gowtham-code-space/gowtham-code-space/main/headings/heading-projects-cicd.svg" alt="Projects"/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Trash Management System
+### [Trash Management System](https://github.com/gowtham-code-space/Trash_management)
 `Civic Platform`
 
 City-scale waste management platform. Citizens report issues, admins route workflows, system tracks resolution and auto-generates compliance certificates. Real-time socket updates and geo-mapped tracking.
@@ -63,7 +113,7 @@ City-scale waste management platform. Citizens report issues, admins route workf
 </td>
 <td width="50%" valign="top">
 
-### SpeakMirror
+### [SpeakMirror](https://github.com/gowtham-code-space/SpeakMirror)
 `AI Application`
 
 AI speech application. Audio processed through FFmpeg, analysed by Groq AI, returned as enriched structured text output. Built for accessibility and content workflows.
@@ -75,7 +125,7 @@ AI speech application. Audio processed through FFmpeg, analysed by Groq AI, retu
 <tr>
 <td width="50%" valign="top">
 
-### Hostel Management App
+### [Hostel Management App](https://github.com/gowtham-code-space/Hostel_Management_app)
 `Mobile Application`
 
 Dual-role mobile system with separate flows for hostel managers and mess managers on a single React Native codebase. Role-based navigation and access throughout.
@@ -85,7 +135,7 @@ Dual-role mobile system with separate flows for hostel managers and mess manager
 </td>
 <td width="50%" valign="top">
 
-### Vestido
+### [Vestido](https://github.com/gowtham-code-space/Vestido)
 `Mobile E-commerce`
 
 Full e-commerce mobile experience — auth, product browse, cart, and order management. File-based routing with Expo Router and Supabase backend.
@@ -97,7 +147,7 @@ Full e-commerce mobile experience — auth, product browse, cart, and order mana
 <tr>
 <td width="50%" valign="top">
 
-### Travelz App
+### [Travelz App](https://github.com/gowtham-code-space/Travelz-app)
 `Mobile Application`
 
 Travel booking and planning application. Mobile-first, cross-platform architecture with Expo.
@@ -107,7 +157,7 @@ Travel booking and planning application. Mobile-first, cross-platform architectu
 </td>
 <td width="50%" valign="top">
 
-### PS Mentorship
+### [PS Mentorship](https://github.com/gowtham-code-space/PS_Mentorship)
 `Web Platform`
 
 Mentorship coordination platform connecting students and mentors. Full Node.js backend with React frontend.
@@ -119,7 +169,7 @@ Mentorship coordination platform connecting students and mentors. Full Node.js b
 <tr>
 <td width="50%" valign="top">
 
-### JournalSync
+### [JournalSync](https://github.com/gowtham-code-space/JournalSync)
 `Web Application`
 
 Journaling and note-taking platform built for clarity and consistency in daily writing.
@@ -129,7 +179,7 @@ Journaling and note-taking platform built for clarity and consistency in daily w
 </td>
 <td width="50%" valign="top">
 
-### Subtitles Generator
+### [Subtitles Generator](https://github.com/gowtham-code-space/Subtitles_generator)
 `Developer Tool`
 
 Automated video subtitle generation. Processes video input and outputs timed subtitle files.
@@ -144,7 +194,7 @@ Automated video subtitle generation. Processes video input and outputs timed sub
 
 ---
 
-## GitHub Stats
+<img src="https://raw.githubusercontent.com/gowtham-code-space/gowtham-code-space/main/headings/heading-github-stats.svg" alt="GitHub Stats"/>
 
 <div align="center">
 
@@ -166,7 +216,7 @@ Automated video subtitle generation. Processes video input and outputs timed sub
 
 ---
 
-## Activity
+<img src="https://raw.githubusercontent.com/gowtham-code-space/gowtham-code-space/main/headings/heading-activity.svg" alt="Activity"/>
 
 <div align="center">
 
@@ -174,7 +224,6 @@ Automated video subtitle generation. Processes video input and outputs timed sub
 
 <br/>
 
-<!-- Contribution Snake — generated by GitHub Action (setup instructions in repo README) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gowtham-code-space/gowtham-code-space/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gowtham-code-space/gowtham-code-space/output/github-contribution-grid-snake.svg"/>
@@ -187,22 +236,21 @@ Automated video subtitle generation. Processes video input and outputs timed sub
 
 ---
 
-## Currently focused on
-
-```
-Scalable real-time systems    Socket.io + TiDB distributed architecture
-React Native mobile           Production-quality cross-platform apps
-AI integrations               Speech processing, Groq AI, LLM pipelines
-Schema design                 Multi-user, multi-role MySQL/TiDB systems
-```
-
----
-
-## Contact
+<img src="https://raw.githubusercontent.com/gowtham-code-space/gowtham-code-space/main/headings/heading-contact.svg" alt="Contact"/>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/github-gowtham--code--space-3a7a40?style=flat-square&logo=github&logoColor=c8e6c9&labelColor=0d1117)](https://github.com/gowtham-code-space)
+<a href="https://github.com/gowtham-code-space">
+  <img src="https://img.shields.io/badge/GitHub-gowtham--code--space-3a7a40?style=for-the-badge&logo=github&logoColor=c8e6c9&labelColor=0d1117" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/gowthamj7773/">
+  <img src="https://img.shields.io/badge/LinkedIn-gowthamj7773-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:gowthamj7773@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-gowthamj7773-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail"/>
+</a>
 
 </div>
 
