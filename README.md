@@ -72,7 +72,10 @@ Fullstack and AI enthusiast who loves problem solving and is always eager to lea
 **DevOps & Cloud**
 
 <img src="https://skillicons.dev/icons?i=docker,firebase&theme=dark&perline=2" alt="DevOps"/>
-
+<img src="https://avatars.githubusercontent.com/u/69240164?s=200&v=4"
+     width="48"
+     height="48"
+     alt="TIDB"/>
 </td>
 </tr>
 <tr>
