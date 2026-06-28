@@ -72,7 +72,7 @@ Fullstack and AI enthusiast who loves problem solving and is always eager to lea
 **DevOps & Cloud**
 
 <img src="https://skillicons.dev/icons?i=docker,firebase&theme=dark&perline=2" alt="DevOps"/>
-
+<img src="https://raw.githubusercontent.com/gowtham-code-space/gowtham-code-space/main/tidb.png" alt="Pinecone DB" height="48" width="48" style="border-radius: 10px; object-fit: cover;" />
 </td>
 </tr>
 <tr>
@@ -87,7 +87,7 @@ Fullstack and AI enthusiast who loves problem solving and is always eager to lea
 
 **AI / Vector Search**
 
-<img src="https://skillicons.dev/icons?i=pinecone&theme=dark&perline=1" alt="AI"/>
+<img src="https://raw.githubusercontent.com/gowtham-code-space/gowtham-code-space/main/pinecone_db.png" alt="Pinecone DB" height="48" width="48" style="border-radius: 10px; object-fit: cover;" />
 
 </td>
 <td align="center">
